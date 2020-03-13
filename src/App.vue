@@ -2,7 +2,8 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <p>master</p>
+    <p>master11</p> 
+    <!-- 修改bug -->
   </div>
 </template>
 
