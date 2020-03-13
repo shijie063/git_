@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <p>master</p>
     <li>开发</li>
+    <li>开发完成</li>
   </div>
 </template>
 
