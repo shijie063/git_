@@ -4,6 +4,8 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <p>master11</p> 
     <!-- 修改bug -->
+    <li>开发</li>
+    <li>开发完成</li>
   </div>
 </template>
 
