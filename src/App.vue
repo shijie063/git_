@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <p>我是第一次修改</p>
     <p>我是one新加的</p>
+    <a href="javascriipt:;"></a>
   </div>
 </template>
 
