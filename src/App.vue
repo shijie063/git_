@@ -6,8 +6,14 @@
     <p>我是one新加的</p>
     <a href="javascriipt:;"></a>
     <p>我是master新加的</p>
+<<<<<<< HEAD
     <div>44444</div>
     <p>修改的bug</p>
+=======
+    <div>3333</div>
+    <li>11111开发到一半</li>
+    <li>开发完毕</li>
+>>>>>>> two
   </div>
 </template>
 
